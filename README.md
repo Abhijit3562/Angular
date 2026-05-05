@@ -1,8 +1,6 @@
 # Angular
 Angular Study Material
 
-Good instinct—don’t “learn Angular,” **prepare to *defend Angular in an interview***. Those are two very different games.
-
 Here’s a **focused, no-BS game plan (7–10 days)** that gets you interview-ready with **just enough depth + hands-on proof**.
 
 ---
