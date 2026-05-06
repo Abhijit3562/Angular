@@ -260,3 +260,6 @@ Focus on:
 ✔ UI structure
 
 ---
+
+
+![alt text](image.png)

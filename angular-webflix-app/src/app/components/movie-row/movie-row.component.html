@@ -1,0 +1,9 @@
+<h3 class="text-white">{{title}}</h3>
+
+<div class = "d-flex overflow-auto">
+    <app-movie-card
+    *ngFor="let movie of movies"
+    [movie]="movie"
+    >
+    </app-movie-card>
+</div>
